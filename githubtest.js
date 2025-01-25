@@ -28,4 +28,4 @@ function fibonacciNumber() {
   }
 }
 
-var name = "python code";
+var name = "python thing";
